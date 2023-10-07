@@ -75,5 +75,7 @@ colors:
 shell:
   program: nu
 
+working_directory: 'C:/Users/zacoo/Desktop/Local/Projects'
+
 key_bindings:
   - { key: F11, action: ToggleFullscreen }

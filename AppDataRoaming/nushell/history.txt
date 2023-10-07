@@ -1,0 +1,358 @@
+cd Local\Projects\zero2prod\
+ls
+ls -h
+ls subdir
+cd Local\Projects\zero2prod\
+cd -
+ls
+ls -h
+ls a
+ls -a
+ls -la
+cd -
+cd Local\Projects\zero2prod\
+ls
+cd Desktop\
+cd Local\Projects\zero2prod\
+git status
+cd Local\Projects\zero2prod\
+cd Desktop\Local\Projects\zero2prod\
+$nu.env-path
+cd C:\Users\zacoo\AppData\Roaming\nushell\
+vim env.nu
+cd -
+cargo build
+cd -
+ls
+scoop update starship
+ls
+ls ~
+nvim
+ls
+cd Desktop\Local\Projects\zero2prod\
+cd C:\Users\zacoo\AppData\Roaming\nushell\
+neovide
+cd C:\Users\zacoo\AppData\Roaming\nushell\
+neovide env.nu
+$nu.config-path
+neovide config.nu
+cd C:\Users\zacoo\AppData\Roaming\nushell\
+nu -v
+cd -
+oh-my-posh init nu
+cd -
+$nu.config-path
+cd ~
+ls
+oh-my-posh
+oh-my-posh init nu
+config nu 
+config 
+config nu 
+config env 
+config nu 
+config env 
+cls
+cl
+cal
+ls
+dir
+nvim 
+ls
+cd 
+ls
+cd Desktop\LS
+cd Desktop
+LS
+ls
+cls
+ls
+cd Local\Projects\ls
+cd Local\Projects\
+ls
+cd wizards\LS
+cd wizards
+;S
+LS
+ls
+nvim .
+neov
+neovide
+cd Desktop\
+cd Local\Projects\
+cargo new wizards_dispute
+cargo new
+cargo init
+rustup update
+cargo build
+cargo run
+ 
+cargo run
+cargo run -r
+rust fmt
+cargo fmt
+cargo fmt -h
+cargo clippy
+cargo run -r
+cd Desktop\Local\Projects\wizards-dispute\
+cargo clippy
+cargo clippy --verbos
+cargo clippy --verbose
+cargo clippy
+cargo clippy -h
+cargo run -r
+cd Desktop\Local\Projects\wizards-dispute\
+hx
+cargo clippy
+cargo run -r
+\
+cargo run -r
+cd -
+cargo run -r
+cd Desktop\Local\Projects\wizards-dispute\
+cargo watch -h
+cargo run -r
+cargo watch -x build -x clippy
+cargo watch -x clippy -x run -r
+cargo watch -x clippy -x run
+cargo run --example bevy_rapier_min
+cargo run -r
+rustup update
+cargo update
+cargo run -r
+cargo build
+cargo clean
+crago build
+cargo build
+cargo run -r
+test
+cd Desktop\Local\Projects\wizards-dispute\
+cd ..
+mkdir Zola
+cd Zola\
+scoop update
+scoop install zola
+zola init myblog
+zola serve
+cd myblog\
+node -v
+scoop install node
+scoop install nodejs
+node -v
+npm -v
+cd Desktop\Local\Projects\
+ls
+mkdir docausorus
+cd docausorus\
+ls
+npx -v
+npx create-docusaurus@latest my-website classic
+ls
+cd my-website\
+npx docusaurus start
+cd my-website\
+cd ..
+mkdir vuepress
+cd vuepress\
+mkdir vuepress-starter
+cd vuepress-starter\
+git init
+npm init
+npm install -D vuepress@next
+vuepress dev docs
+ls
+cd Desktop\Local\Projects\
+ls
+mkdir vuepress2
+cd vuepress2\
+node -v
+npm install -D vuepress@next
+echo '# Hello VuePress' > README.md
+ls
+npx vuepress dev
+vuepress dev
+vuepress dev docs
+npx vuepress dev docs
+npm run docs:dev
+cd Desktop\Local\Projects\
+ls
+mkdir nuxt-demo
+cd nuxt-demo\
+ls
+node -v
+node -u
+node --help
+scoop update
+node -v
+pnpm -v
+scoop install pnpm
+pnpm -v
+pnpm dlx nuxi init nuxt-demo
+ls
+pnpm install
+cd ../
+npx nuxi init nuxt-demo-npm
+cd nuxt-demo-npm\
+npm install
+npx nuxi init blog-nuxt
+cd blog-nuxt\
+npm install
+nuxt dev
+npm dev
+npm run dev
+nuxi dev
+npx nuxi dev
+npm install -D nuxi
+nuxi dev
+npx nuxi add layout Header
+npx nuxi add page index
+npx nuxi add component header
+npx nuxi add component Header
+npm install --save-dev @nuxtjs/google-fonts
+npx nuxi dev
+npm run dev
+npm install --save-dev sass
+npm run dev
+npx nuxi add component SideBar
+npm run dev
+npx nuxi cleanup
+ls
+cd blog-nuxt\
+ls
+npm update
+npm install -g npm@9.6.4
+npm install
+cd blog-nuxt\
+LS
+ls
+cd Local\Projects\
+cd Desktop\Local\Projects\
+hx
+cd blog-nuxt\
+hx
+cd Desktop\Local\Projects\blog-nuxt\
+hx
+cd Desktop\Local\Projects\
+ls
+git clone https://github.com/HuakunShen/tauri-nuxt-template.git
+cd tauri-nuxt-template\
+.\gen-tauri-nuxt.sh
+pnpm install
+cd Desktop\Local\Projects\
+git clone https://github.com/zacharygoulet/task-funnel.git
+cd task-funnel\
+cd Desktop\Local\Projects\arcane-strife\
+rustup update
+cargo init
+cargo run
+alacritty -h
+cp alacritty.yml %APPDATA%\alacritty\alacritty.yml
+cd Desktop\Local\Projects\arcane-strife\
+hx 
+$nu.env-path
+hx $nu.env-path
+rm $nu.env-path
+version
+rm $nu.env-path
+rm $nu.config-path
+cat $env.config
+cat $nu.config-path
+echo $nu.config-path
+scoop install bat
+bat $nu.config-path
+bat $nu.env-path
+version
+hx $nu.env-path
+hx $nu.config-path
+cd Desktop\Local\Projects\arcane-strife\
+hx
+cd Desktop\Local\Projects\arcane-strife\
+hx
+hx -v
+hx --version
+scoop list
+where.exe hx
+hx 
+cargo run
+hx
+hx .
+cd Desktop\Local\Projects\arcane-strife\
+starship --version
+starship --help
+starship config
+hx ~\.config\starship.toml
+cd Desktop\Local\Projects\arcane-strife\
+rm ~\.config\starship.toml
+starship preset nerd-font-symbols -o ~\.config\starship.toml
+hx ~\.config\starship.toml
+cd Desktop\Local\Projects\arcane-strife\
+hx ~\.config\starship.toml
+fdsf
+cd Desktop\Local\Projects\arcane-strife\
+hx ~\.config\starship.toml
+cd Desktop\Local\Projects\arcane-strife\
+hx ~\.config\starship.toml
+hx $nu.config-path
+cd Desktop\Local\Projects\arcane-strife\
+cd ..
+cd Desktop\Local\Projects\arcane-strife\
+ls 
+cd arcane-strife\
+alacritty -h
+alacritty --config-file
+echo dsf
+echo $env.APPDATA
+hx $env.APPDATA\alcritty\alacritty.yml
+hx ${env.APPDATA}\alcritty\alacritty.yml
+hx C:\Users\zacoo\AppData\Roaming\alacritty\alacritty.yml
+nu -h
+hx C:\Users\zacoo\AppData\Roaming\alacritty\alacritty.yml
+cd arcane-strife\
+cd ..
+cd arcane-strife\
+cargo run
+cd arcane-strife\
+cargo run
+cd arcane-strife\
+cargo run
+hx
+cd arcane-strife\
+hx
+exit
+cd arcane-strife\
+hx
+exot
+exit
+cd arcane-strife\
+hx
+cd arcane-strife\
+hx
+cd arcane-strife\
+hx
+cd zg-bevy-plugins\bevy-destination\
+cargo init
+cargo update
+rustup update
+ls
+cd cross-platform-env\
+ls
+git status
+git add .
+git commit "windows progress"
+git commit -m "windows progress"
+git push
+nu $env.config
+hx $env.config
+nu 
+ls
+cd cross-platform-env\
+hx .
+mkdir ./config
+ls
+$nu
+alacritty --config-file
+alacritty --help
+hx --help
+rm config\
+ls
+mkdir .config
