@@ -356,3 +356,16 @@ hx --help
 rm config\
 ls
 mkdir .config
+cd cross-platform-env\
+cd projects/
+cd cross-platform-env/
+git status
+hx setup_linux.sh
+cd ../arcane-strife/
+cd ../cross-platform-env/
+ls
+hx setup_linux.sh
+./setup_linux.sh
+fc-cache -fv
+cd projects/arcane-strife/
+cd ../cross-platform-env/

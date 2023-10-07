@@ -3,5 +3,5 @@
 # ibus session bus with the below address.
 # If the IBUS_ADDRESS environment variable is set, it will
 # be used rather than this file.
-IBUS_ADDRESS=unix:path=/home/zach/.cache/ibus/dbus-RPMXenup,guid=1676fa08fcdaf005025926cc651f7ec6
-IBUS_DAEMON_PID=1738
+IBUS_ADDRESS=unix:path=/home/zach/.cache/ibus/dbus-D6HYhBuJ,guid=071016d1a20c366d51ea0c176521c807
+IBUS_DAEMON_PID=2683

@@ -4,10 +4,14 @@
 # curl -L https://nixos.org/nix/install | sh -s -- --daemon
 
 # install packages
-nix profile install nixpkgs#alacritty
-nix profile install nixpkgs#nu
+# nix profile install nixpkgs#alacritty (not working on wayland, using default terminal instead)
+nix profile install nixpkgs#nushell
 nix profile install nixpkgs#starship
 nix profile install nixpkgs#helix
+nix profile install nixpkgs#nil # nix langage server
+nix profile install nixpkgs#nerdfonts # nerd fonts
+nix profile install nixpkgs#obsidian --impure # markdown editor
+nix profile install nixpkgs#ltex-ls # autocorrect language server
 
 # Link nix apps to ubuntu folder
 mkdir -p ~/.local/share/icons/hicolor/scalable/apps
